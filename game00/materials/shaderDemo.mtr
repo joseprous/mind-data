@@ -3,3 +3,6 @@ _default {
 		map	_default
 	}
 }
+_tracemodel {
+	collision
+}

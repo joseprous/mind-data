@@ -1,0 +1,8 @@
+entityDef worldspawn {
+	"spawnclass"			"idWorldspawn"
+	"name"					"world"
+}
+
+entityDef light {
+	"spawnclass"				"idLight"
+}

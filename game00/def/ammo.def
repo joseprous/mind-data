@@ -1,0 +1,12 @@
+entityDef ammo_types {
+	"ammo_none"				"0"
+	"ammo_shells"			"1"
+	"ammo_bullets"			"2"
+	"ammo_rockets"			"3"
+	"ammo_cells"			"4"
+	"ammo_grenades"			"5"
+	"ammo_souls"			"6"
+	"ammo_bfg"				"7"
+	"ammo_clip"				"8"
+	"ammo_belt"				"9"
+}

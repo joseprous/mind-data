@@ -1,0 +1,6 @@
+object player : player_base {
+	void		init();
+
+};
+void player::init() {
+}

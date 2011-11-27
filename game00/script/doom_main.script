@@ -1,0 +1,3 @@
+#include "script/doom_defs.script"
+#include "script/ai_base.script"
+#include "script/ai_player.script"
