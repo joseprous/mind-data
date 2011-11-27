@@ -1,0 +1,22 @@
+windowDef Desktop {
+    rect        0 ,0 ,640 ,480 
+    backcolor   1, 1, 1, 1
+
+    windowDef LoadBtnText {
+        rect 200, 200,200,50
+        text "Play"
+        textscale   1
+        forecolor   0, 0, 0, 1
+
+        onMouseEnter {
+            set "LoadBtnText::forecolor" "1 0 0 1"
+        }
+        onMouseExit {
+            set "LoadBtnText::forecolor" "0 0 0 1"
+        }
+        onAction {
+            set "cmd"   "startGame" ;
+        }
+    }
+    
+}
